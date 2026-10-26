@@ -5,7 +5,7 @@ import { DynamicIsland } from "./DynamicIsland";
 import { HomeIndicator } from "./HomeIndicator";
 import { storyData } from "@/data";
 
-const LOCK_PASSWORD = "0705";
+const LOCK_PASSWORD = "4444";
 const PASSWORD_LENGTH = LOCK_PASSWORD.length;
 
 interface LockScreenProps {
@@ -204,7 +204,7 @@ export function LockScreen({ onUnlock }: LockScreenProps) {
               ))}
             </div>
             <div className="flex min-h-[24px] items-center justify-center px-2 text-center text-[13px] leading-tight text-white/90">
-              {error ? "密码错误，请重新输入（提示：🎂）" : ""}
+              {error ? "密码错误，请重新输入（提示：me）" : ""}
             </div>
             <div className="mt-3 grid w-[238px] grid-cols-3 gap-x-5 gap-y-3">
               {(["1", "2", "3", "4", "5", "6", "7", "8", "9"] as const).map((digit) => (
