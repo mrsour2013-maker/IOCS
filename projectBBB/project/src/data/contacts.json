@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pond",
+    "name": "Pond",
+    "avatar": "/photos/IMG_3710.jpeg",
+    "color": "#3b82f6"
+  },
+  {
+    "id": "lin_yu",
+    "name": "林语",
+    "avatar": "",
+    "color": "#e74c3c"
+  },
+  {
+    "id": "zhao_min",
+    "name": "赵敏",
+    "avatar": "",
+    "color": "#3498db"
+  },
+  {
+    "id": "chen_wei",
+    "name": "陈伟",
+    "avatar": "",
+    "color": "#2ecc71"
+  },
+  {
+    "id": "unknown",
+    "name": "未知号码",
+    "avatar": "",
+    "color": "#95a5a6"
+  }
+]

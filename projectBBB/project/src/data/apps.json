@@ -1,0 +1,30 @@
+[
+  {
+    "id": "line",
+    "name": "LINE",
+    "icon": "line",
+    "dock": true
+  },
+  {
+    "id": "x",
+    "name": "X",
+    "icon": "x"
+  },
+  {
+    "id": "messages",
+    "name": "邮件",
+    "icon": "mail"
+  },
+  {
+    "id": "phone",
+    "name": "电话",
+    "icon": "phone",
+    "dock": true
+  },
+  {
+    "id": "browser",
+    "name": "浏览器",
+    "icon": "browser",
+    "dock": true
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "mail_001",
+    "sender": "Imperial College London",
+    "senderEmail": "student-news@imperial.example",
+    "to": "Phuwin",
+    "date": "2026-10-24T09:00:00",
+    "subject": "Your weekly student newsletter",
+    "summary": "Events, opportunities and updates from across the Imperial community.",
+    "body": ["Hi Phuwin,", "Here’s your weekly update from Imperial.", "This week, take a look at upcoming campus events, student society activities, and opportunities to get involved across the College.", "You can also check your course portal for next week’s timetable and any updates from your department.", "Have a good week,", "Imperial Student Communications"],
+    "initialRead": false
+  },
+  {
+    "id": "mail_002",
+    "sender": "Amazon",
+    "senderEmail": "shipment-update@amazon.example",
+    "to": "Phuwin",
+    "date": "2026-10-24T08:15:00",
+    "subject": "Your package is out for delivery",
+    "summary": "Your order is arriving today.",
+    "body": ["Hi Phuwin,", "Your package is out for delivery and is expected to arrive today.", "Please check your delivery preferences if you won’t be home.", "Thanks for shopping with us.", "Amazon Delivery Team"],
+    "initialRead": false
+  },
+  {
+    "id": "mail_003",
+    "sender": "Crunchyroll",
+    "senderEmail": "news@crunchyroll.example",
+    "to": "Phuwin",
+    "date": "2026-10-23T21:30:00",
+    "subject": "New episodes are waiting for you",
+    "summary": "Your watchlist has been updated with new episodes.",
+    "body": ["Hey Phuwin,", "Your watchlist has new episodes waiting for you.", "Whether you’re catching up on your current favourites or looking for something new, there’s always another story to get into.", "Grab a snack, get comfortable, and enjoy your next episode.", "The Crunchyroll Team"],
+    "initialRead": false
+  },
+  {
+    "id": "mail_004",
+    "sender": "Steam",
+    "senderEmail": "noreply@steampowered.example",
+    "to": "Phuwin",
+    "date": "2026-10-23T18:00:00",
+    "subject": "Your wishlist has a special offer",
+    "summary": "A game on your wishlist is now on sale.",
+    "body": ["Hi Phuwin,", "A game from your Steam wishlist is currently on sale.", "If you’ve been waiting for the right time to add it to your library, now might be a good time to take another look.", "Open Steam to browse your wishlist and discover more games.", "Happy gaming,", "The Steam Team"],
+    "initialRead": true
+  },
+  {
+    "id": "mail_005",
+    "sender": "Imperial College London",
+    "senderEmail": "course-notifications@imperial.example",
+    "to": "Phuwin",
+    "date": "2026-10-22T10:00:00",
+    "subject": "Reminder: coursework submission deadline",
+    "summary": "Please check your course portal for the upcoming deadline.",
+    "body": ["Hi Phuwin,", "This is a reminder to review the submission deadline and requirements for your upcoming coursework.", "Please check your course portal for the latest instructions and make sure you leave enough time to submit your work before the deadline.", "If you have any questions, contact your module team.", "Best wishes,", "Imperial Course Administration"],
+    "initialRead": true
+  },
+  {
+    "id": "mail_006",
+    "sender": "Royal Mail",
+    "senderEmail": "tracking@royalmail.example",
+    "to": "Phuwin",
+    "date": "2026-10-21T11:20:00",
+    "subject": "We’ve received your parcel",
+    "summary": "Your parcel is on its way.",
+    "body": ["Hi Phuwin,", "We’ve received your parcel and it’s now moving through our delivery network.", "We’ll send you another update when there is more information about its progress.", "Thank you for using Royal Mail.", "Royal Mail Team"],
+    "initialRead": true
+  },
+  {
+    "id": "mail_007",
+    "sender": "MANGA Plus",
+    "senderEmail": "updates@mangaplus.example",
+    "to": "Phuwin",
+    "date": "2026-10-20T20:00:00",
+    "subject": "New chapters are available",
+    "summary": "Catch up with the latest chapters from your favourites.",
+    "body": ["Hi Phuwin,", "New chapters are available to read.", "Your favourite series may have new pages waiting, so take a moment to catch up whenever you have time.", "Thanks for reading with MANGA Plus.", "MANGA Plus Team"],
+    "initialRead": true
+  },
+  {
+    "id": "mail_008",
+    "sender": "PlayStation",
+    "senderEmail": "updates@playstation.example",
+    "to": "Phuwin",
+    "date": "2026-10-19T17:00:00",
+    "subject": "October games and updates",
+    "summary": "Discover this month’s highlights.",
+    "body": ["Hi Phuwin,", "Here’s your monthly gaming update.", "Discover selected games, recent updates, and highlights from the PlayStation community.", "Check the PlayStation Store whenever you’re ready to see what’s new.", "See you in game,", "PlayStation Team"],
+    "initialRead": true
+  },
+  {
+    "id": "mail_009",
+    "sender": "Spotify",
+    "senderEmail": "no-reply@spotify.example",
+    "to": "Phuwin",
+    "date": "2026-10-19T09:30:00",
+    "subject": "Your Discover Weekly is ready",
+    "summary": "A new playlist made for you is waiting.",
+    "body": ["Hey Phuwin,", "Your Discover Weekly playlist is ready.", "We’ve put together another collection of tracks for you to explore. You might find something new for your commute, your study sessions, or your late-night listening.", "Open Spotify and give it a listen.", "Happy listening,", "Spotify"],
+    "initialRead": true
+  },
+  {
+    "id": "mail_010",
+    "sender": "Discord",
+    "senderEmail": "notifications@discord.example",
+    "to": "Phuwin",
+    "date": "2026-10-18T14:00:00",
+    "subject": "Your weekly activity summary",
+    "summary": "Here’s what’s been happening in your communities.",
+    "body": ["Hi Phuwin,", "Here’s a quick look at activity across your communities this week.", "Some of the manga and gaming servers you’re part of have new discussions and updates waiting for you.", "Open Discord whenever you have time to catch up.", "See you around,", "Discord Team"],
+    "initialRead": true
+  }
+]

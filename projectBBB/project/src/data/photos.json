@@ -1,0 +1,40 @@
+[
+  {
+    "id": "p1",
+    "src": "/photos/sunset.webp",
+    "date": "2026-09-15",
+    "description": "外滩的日落，那天我们三个人还在。",
+    "unlocks": ["flag_old_photo"]
+  },
+  {
+    "id": "p2",
+    "src": "/photos/letter.webp",
+    "date": "2026-08-02",
+    "description": "一封没有寄出的信。",
+    "unlocks": ["flag_letter"]
+  },
+  {
+    "id": "p3",
+    "src": "/photos/cafe.webp",
+    "date": "2026-07-19",
+    "description": "老地方咖啡馆，门已经换了锁。"
+  },
+  {
+    "id": "p4",
+    "src": "/photos/ticket.webp",
+    "date": "2026-06-30",
+    "description": "一张去往上海的旧车票。"
+  },
+  {
+    "id": "p5",
+    "src": "/photos/beach.webp",
+    "date": "2026-05-05",
+    "description": "海边，风很大。"
+  },
+  {
+    "id": "p6",
+    "src": "/photos/night.webp",
+    "date": "2026-04-12",
+    "description": "深夜的街道，空无一人。"
+  }
+]

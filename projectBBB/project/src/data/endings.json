@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ending_reunion",
+    "title": "重逢",
+    "requires": ["flag_lin_contact", "flag_event_reunion", "flag_old_photo"],
+    "description": "你在外滩等到了林语。有些话，终于说出了口。"
+  },
+  {
+    "id": "ending_alone",
+    "title": "独自前行",
+    "requires": ["flag_group_tension", "flag_notes_oldplace"],
+    "description": "聚会那天你没有去。老地方的灯熄了，但你开始学会了一个人走。"
+  },
+  {
+    "id": "ending_letter",
+    "title": "那封信",
+    "requires": ["flag_letter", "flag_notes_names"],
+    "description": "你在抽屉深处找到了那封信。信封上的字迹已经有些模糊，但你终于决定了。"
+  }
+]

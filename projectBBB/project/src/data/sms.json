@@ -1,0 +1,50 @@
+[
+  {
+    "id": "sms_lin",
+    "name": "林语",
+    "color": "#e74c3c",
+    "lastTime": "2026-10-22T20:35:00",
+    "messages": [
+      {
+        "id": "s1",
+        "time": "2026-10-22T20:10:00",
+        "from": "lin_yu",
+        "text": "你最近还好吗？"
+      },
+      {
+        "id": "s2",
+        "time": "2026-10-22T20:12:00",
+        "from": "me",
+        "text": "还行，在忙。"
+      },
+      {
+        "id": "s3",
+        "time": "2026-10-22T20:14:00",
+        "from": "lin_yu",
+        "text": "我下周回上海，见一面好吗？"
+      },
+      {
+        "id": "s4",
+        "time": "2026-10-22T20:35:00",
+        "from": "lin_yu",
+        "text": "给我打个电话。"
+      }
+    ],
+    "unlocks": ["flag_sms_lin"]
+  },
+  {
+    "id": "sms_unknown",
+    "name": "未知号码",
+    "color": "#95a5a6",
+    "lastTime": "2026-10-19T23:58:00",
+    "messages": [
+      {
+        "id": "u1",
+        "time": "2026-10-19T23:58:00",
+        "from": "unknown",
+        "text": "老地方最后一天会留一盏灯。"
+      }
+    ],
+    "unlocks": ["flag_sms_unknown"]
+  }
+]

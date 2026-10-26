@@ -1,0 +1,100 @@
+[
+  {
+    "id": "call_pond_01",
+    "name": "Pond",
+    "contactId": "pond",
+    "phone": "+1 (212) 555-0148",
+    "time": "2026-10-25T09:25:00",
+    "type": "missed",
+    "color": "#3b82f6"
+  },
+  {
+    "id": "call_pond_02",
+    "name": "Pond",
+    "contactId": "pond",
+    "phone": "+1 (212) 555-0148",
+    "time": "2026-10-25T09:25:00",
+    "type": "missed",
+    "color": "#3b82f6"
+  },
+  {
+    "id": "call_fort_01",
+    "name": "Fort",
+    "contactId": "fort",
+    "phone": "+44 20 7946 0312",
+    "time": "2026-10-24T20:10:00",
+    "type": "incoming",
+    "duration": "8分24秒",
+    "color": "#10b981"
+  },
+  {
+    "id": "call_fort_02",
+    "name": "Fort",
+    "contactId": "fort",
+    "phone": "+44 20 7946 0312",
+    "time": "2026-10-22T18:30:00",
+    "type": "outgoing",
+    "duration": "1分05秒",
+    "color": "#10b981"
+  },
+  {
+    "id": "call_fort_03",
+    "name": "Fort",
+    "contactId": "fort",
+    "phone": "+44 20 7946 0312",
+    "time": "2026-10-21T22:45:00",
+    "type": "incoming",
+    "duration": "12分10秒",
+    "color": "#10b981"
+  },
+  {
+    "id": "call_mom_01",
+    "name": "Mom",
+    "contactId": "mom",
+    "phone": "+66 2 123 4567",
+    "time": "2026-10-18T19:30:00",
+    "type": "incoming",
+    "duration": "6分30秒",
+    "color": "#ec4899"
+  },
+  {
+    "id": "call_mom_02",
+    "name": "Mom",
+    "contactId": "mom",
+    "phone": "+66 2 123 4567",
+    "time": "2026-10-10T12:00:00",
+    "type": "outgoing",
+    "duration": "3分12秒",
+    "color": "#ec4899"
+  },
+  {
+    "id": "call_dad_01",
+    "name": "Dad",
+    "contactId": "dad",
+    "phone": "+66 2 765 4321",
+    "time": "2026-10-05T21:15:00",
+    "type": "incoming",
+    "duration": "4分18秒",
+    "color": "#f59e0b"
+  },
+  {
+    "id": "call_dad_02",
+    "name": "Dad",
+    "contactId": "dad",
+    "phone": "+66 2 765 4321",
+    "time": "2026-09-28T10:00:00",
+    "type": "outgoing",
+    "duration": "2分40秒",
+    "color": "#f59e0b"
+  },
+  {
+    "id": "call_dad_03",
+    "name": "Dad",
+    "contactId": "dad",
+    "phone": "+66 2 765 4321",
+    "time": "2026-09-15T08:30:00",
+    "type": "incoming",
+    "duration": "1分50秒",
+    "color": "#f59e0b"
+  }
+]

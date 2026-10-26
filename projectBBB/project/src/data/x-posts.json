@@ -1,0 +1,54 @@
+[
+  {
+    "id": "xt_manga_01",
+    "author": "sugarplum",
+    "handle": "sugarplum_07",
+    "authorColor": "#e91e8c",
+    "verified": false,
+    "time": "2026-10-23T14:20:00",
+    "text": "なんで少女漫画の男って肝心なところで鈍感なの？？？ こっちは何話も前から気づいてるんだけど 😭",
+    "image": "/photos/IMG_3725.jpeg",
+    "likes": 89,
+    "retweets": 12,
+    "replies": 7
+  },
+  {
+    "id": "xt_manga_02",
+    "author": "panel breaker",
+    "handle": "panelbreakerr",
+    "authorColor": "#ff6b35",
+    "verified": false,
+    "time": "2026-10-22T21:05:00",
+    "text": "no because THAT panel??? the aura was actually insane. bro didn't even need dialogue.",
+    "image": "/photos/IMG_3726.jpeg",
+    "likes": 412,
+    "retweets": 67,
+    "replies": 34
+  },
+  {
+    "id": "xt_manga_03",
+    "author": "milky moon",
+    "handle": "milkymoonlit",
+    "authorColor": "#7b68ee",
+    "verified": false,
+    "time": "2026-10-21T18:33:00",
+    "text": "childhood friends to lovers is either the most beautiful thing ever or 200 chapters of emotional damage. no in between.",
+    "image": "/photos/IMG_3727.jpeg",
+    "likes": 1250,
+    "retweets": 234,
+    "replies": 89
+  },
+  {
+    "id": "xt_manga_04",
+    "author": "shonen archive",
+    "handle": "shonenarchive",
+    "authorColor": "#2196f3",
+    "verified": true,
+    "time": "2026-10-20T12:00:00",
+    "text": "the best shonen characters are the ones who keep choosing to stand up even when they know they're gonna lose.",
+    "image": "/photos/IMG_3728.jpeg",
+    "likes": 3420,
+    "retweets": 890,
+    "replies": 156
+  }
+]

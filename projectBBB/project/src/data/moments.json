@@ -1,0 +1,36 @@
+[
+  {
+    "id": "mo1",
+    "author": "林语",
+    "avatar": "",
+    "color": "#e74c3c",
+    "time": "2026-10-21T19:00:00",
+    "text": "有些话，错过了时间就再也说不出口。",
+    "likes": ["赵敏"],
+    "comments": [
+      { "from": "赵敏", "text": "怎么了？" }
+    ],
+    "unlocks": ["flag_moment_melancholy"]
+  },
+  {
+    "id": "mo2",
+    "author": "陈伟",
+    "avatar": "",
+    "color": "#2ecc71",
+    "time": "2026-10-18T22:30:00",
+    "text": "今晚月色不错，适合散个步。",
+    "images": ["/photos/night.webp"],
+    "likes": ["赵敏", "林语"]
+  },
+  {
+    "id": "mo3",
+    "author": "赵敏",
+    "avatar": "",
+    "color": "#3498db",
+    "time": "2026-10-15T12:00:00",
+    "text": "老地方咖啡馆下个月就要拆了，约一次？",
+    "comments": [
+      { "from": "陈伟", "text": "什么时候？" }
+    ]
+  }
+]
